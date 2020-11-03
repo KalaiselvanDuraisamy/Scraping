@@ -1,0 +1,160 @@
+1604318894350	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Nw3e1UV8VSHv"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is IN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604318897080	Marionette	INFO	Listening on port 36763
+1604318897209	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+JavaScript error: https://www.makemytrip.com/ line 1875 > injectedScript, line 1: ReferenceError: s is not defined
+JavaScript error: https://jsak.mmtcdn.com/pwa_v3/pwa_commons/js/vendor.c774eb0cad1b34bc58fc.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.easemytrip.com/Multicity/EMTAnaytics.js?a=7412e, line 72: ReferenceError: $ is not defined
+JavaScript error: https://www.easemytrip.com/, line 3584: TypeError: btn is null
+JavaScript error: https://www.easemytrip.com/, line 3625: TypeError: dots[(slideIndex - 1)] is undefined
+JavaScript error: https://www.goindigo.in/?linkNav=homepage_header, line 6823: TypeError: thisHeading is null
+JavaScript warning: https://www.goindigo.in/etc/designs/indigo/clientlib-all.min.2f2de0918b294c734adbdbdae6550bb4.js, line 27705: unreachable code after return statement
+JavaScript error: https://www.goindigo.in/etc.clientlibs/indigo/components/loyalty/loyaltySlidepanes/clientlib.min.834338575c7c1760923359454887b91b.js, line 47: Error: Argument `elem` must be a valid HTML node
+JavaScript error: https://www.goindigo.in/?linkNav=homepage_header line 6 > injectedScript, line 1: ReferenceError: twttr is not defined
+JavaScript error: https://www.goindigo.in/etc.clientlibs/indigo/components/content/completeyourbooking/clientlib.min.636b563c14c31e5a9aa2069c4bfd39b0.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript warning: http://www.livehelpnow.net/lhn/widgets/chatbutton/lhnchatbutton-current.min.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.thomascook.in/ line 7737 > injectedScript, line 1: TypeError: document.getElementById(...) is null
+JavaScript warning: https://book.airvistara.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1430650146, line 1: unreachable code after return statement
+JavaScript warning: https://book.airvistara.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1430650146, line 1: unreachable code after return statement
+JavaScript warning: https://book.airvistara.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1430650146 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://cdn.livechatinc.com/tracking.js, line 9: Error: License expired
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+JavaScript error: https://accounts.google.com/gsi/client, line 316: TypeError: CredentialsContainer.get: Missing required 'challenge' member of PublicKeyCredentialRequestOptions.
+JavaScript error: https://www.wego.co.in/makalu/wegomainen.b6954c2.js, line 1: ChunkLoadError: Loading chunk 4 failed.
+(error: https://www.wego.co.in/makalu/webengage.705371a.js)
+JavaScript error: , line 0: uncaught exception: null
+JavaScript warning: https://in.musafir.com/Resource/JavaScript/Musafir.js?32100, line 1: unreachable code after return statement
+JavaScript warning: https://in.musafir.com/Resource/JavaScript/Musafir.js?32100, line 1: unreachable code after return statement
+JavaScript error: https://in.musafir.com/, line 1: SyntaxError: expected expression, got '<'
+1604318999494	Marionette	INFO	Stopped listening on port 36763
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://www.edreams.in/service_worker.js for scope https://www.edreams.in/ encountered an error during installation.
+JavaScript error: , line 0: uncaught exception: undefined
+1604319076463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2GYEJ7csVZoH"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is IN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604319079307	Marionette	INFO	Listening on port 44179
+1604319079402	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+JavaScript error: https://www.makemytrip.com/ line 1875 > injectedScript, line 1: ReferenceError: s is not defined
+JavaScript error: https://jsak.mmtcdn.com/pwa_v3/pwa_commons/js/vendor.c774eb0cad1b34bc58fc.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.easemytrip.com/Multicity/EMTAnaytics.js?a=7412e, line 72: ReferenceError: $ is not defined
+JavaScript error: https://www.easemytrip.com/, line 3584: TypeError: btn is null
+JavaScript error: https://www.easemytrip.com/, line 3625: TypeError: dots[(slideIndex - 1)] is undefined
+JavaScript error: https://www.goindigo.in/?linkNav=homepage_header, line 6823: TypeError: thisHeading is null
+JavaScript warning: https://www.goindigo.in/etc/designs/indigo/clientlib-all.min.2f2de0918b294c734adbdbdae6550bb4.js, line 27705: unreachable code after return statement
+JavaScript error: https://www.goindigo.in/etc.clientlibs/indigo/components/loyalty/loyaltySlidepanes/clientlib.min.834338575c7c1760923359454887b91b.js, line 47: Error: Argument `elem` must be a valid HTML node
+JavaScript error: https://www.goindigo.in/?linkNav=homepage_header line 6 > injectedScript, line 1: ReferenceError: twttr is not defined
+JavaScript error: https://www.goindigo.in/etc.clientlibs/indigo/components/content/completeyourbooking/clientlib.min.636b563c14c31e5a9aa2069c4bfd39b0.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://s.go-mpulse.net/boomerang/QRHAF-VKPV6-ZTS8J-965A3-72Q93, line 10: SecurityError: Permission denied to access property "requestIdleCallback" on cross-origin object
+JavaScript warning: http://www.livehelpnow.net/lhn/widgets/chatbutton/lhnchatbutton-current.min.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.thomascook.in/ line 7737 > injectedScript, line 1: TypeError: document.getElementById(...) is null
+JavaScript warning: https://book.airvistara.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=874906364, line 1: unreachable code after return statement
+JavaScript warning: https://book.airvistara.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=874906364, line 1: unreachable code after return statement
+JavaScript warning: https://book.airvistara.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=874906364 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://book.airvistara.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=874906364 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://cdn.livechatinc.com/tracking.js, line 9: Error: License expired
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://accounts.google.com/gsi/client, line 316: TypeError: CredentialsContainer.get: Missing required 'challenge' member of PublicKeyCredentialRequestOptions.
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+JavaScript error: https://www.wego.co.in/makalu/wegomainen.b6954c2.js, line 1: ChunkLoadError: Loading chunk 4 failed.
+(error: https://www.wego.co.in/makalu/webengage.705371a.js)
+JavaScript warning: https://in.musafir.com/Resource/JavaScript/Musafir.js?32100, line 1: unreachable code after return statement
+JavaScript warning: https://in.musafir.com/Resource/JavaScript/Musafir.js?32100, line 1: unreachable code after return statement
+JavaScript error: https://in.musafir.com/, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://www.edreams.in/service_worker.js for scope https://www.edreams.in/ threw an exception during script evaluation.
+1604319200523	Marionette	INFO	Stopped listening on port 44179
+1604319499246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.x1G5iRRUhBTk"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is IN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604319502522	Marionette	INFO	Listening on port 45835
+1604319502583	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+JavaScript error: https://accounts.google.com/gsi/client, line 316: TypeError: CredentialsContainer.get: Missing required 'challenge' member of PublicKeyCredentialRequestOptions.
+1604319518210	Marionette	INFO	Stopped listening on port 45835
+1604319583798	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YmnzlIzz5jfi"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is IN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604319586586	Marionette	INFO	Listening on port 39515
+1604319586644	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+JavaScript error: https://accounts.google.com/gsi/client, line 316: TypeError: CredentialsContainer.get: Missing required 'challenge' member of PublicKeyCredentialRequestOptions.
+1604319599678	Marionette	INFO	Stopped listening on port 39515
+1604319633617	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZX8aefj8odsV"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is IN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604319636495	Marionette	INFO	Listening on port 46479
+1604319636559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+JavaScript error: https://accounts.google.com/gsi/client, line 316: TypeError: CredentialsContainer.get: Missing required 'challenge' member of PublicKeyCredentialRequestOptions.
+1604319665654	Marionette	INFO	Stopped listening on port 46479
+1604319692466	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KiOyl3B57956"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is IN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604319695124	Marionette	INFO	Listening on port 37353
+1604319695197	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+JavaScript error: https://accounts.google.com/gsi/client, line 316: TypeError: CredentialsContainer.get: Missing required 'challenge' member of PublicKeyCredentialRequestOptions.
+1604319717729	Marionette	INFO	Stopped listening on port 37353
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://www.wego.co.in/makalu-service-worker.js for scope https://www.wego.co.in/ encountered an error during installation.
+1604379074915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7cN9g6w8Zv5B"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is IN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604379112345	Marionette	INFO	Listening on port 43555
+1604379112999	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+JavaScript error: https://accounts.google.com/gsi/client, line 316: TypeError: CredentialsContainer.get: Missing required 'challenge' member of PublicKeyCredentialRequestOptions.
+1604379160470	Marionette	INFO	Stopped listening on port 43555
+1604386177423	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ir8g1G42lGwm"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is IN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604386180877	Marionette	INFO	Listening on port 39671
+1604386180968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Cookie bot not supported.
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+JavaScript error: https://accounts.google.com/gsi/client, line 316: TypeError: CredentialsContainer.get: Missing required 'challenge' member of PublicKeyCredentialRequestOptions.
+1604386189704	Marionette	INFO	Stopped listening on port 39671
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+

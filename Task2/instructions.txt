@@ -1,0 +1,16 @@
+Note: 
+    To import packages use
+        1. pip install -r requirements.txt 
+    
+    To install chrome drive: (run this command on command prompt)
+
+        1. sudo apt-get install unzip
+        2. wget -N http://chromedriver.storage.googleapis.com/2.29/chromedriver_linux64.zip -P ~/Downloads
+        3. unzip ~/Downloads/chromedriver_linux64.zip -d ~/Downloads
+        4. sudo mv -f ~/Downloads/chromedriver /usr/local/share/
+        5. sudo chmod +x /usr/local/share/chromedriver
+        6. sudo ln -s /usr/local/share/chromedriver /usr/local/bin/chromedriver
+        7. sudo ln -s /usr/local/share/chromedriver /usr/bin/chromedriver
+
+ 
+

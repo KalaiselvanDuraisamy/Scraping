@@ -1,0 +1,14 @@
+Library Files:
+    >>> Regular expression
+    >>> Selenium webdriver
+    >>> Beautifulsoup
+    >>> urllib
+    >>> zipfile
+    >>> os
+
+Files:
+    >>> links.txt
+    >>> results.txt
+
+mentioned libraries and files are mandatory before execution. 
+

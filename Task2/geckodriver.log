@@ -1,0 +1,19 @@
+1604318155028	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.x5ly3wB9wUPE"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is IN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604318157967	Marionette	INFO	Listening on port 45879
+1604318158056	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+1604318178140	Marionette	INFO	Stopped listening on port 45879
+1604318209834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.99wGQ0Ct9LEu"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is IN
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604318212512	Marionette	INFO	Listening on port 43511
+1604318212567	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+JavaScript error: https://www.tatacliq.com/ line 2 > injectedScript, line 2: TypeError: element is null
+1604318235467	Marionette	INFO	Stopped listening on port 43511

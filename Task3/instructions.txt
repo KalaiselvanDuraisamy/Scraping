@@ -1,0 +1,14 @@
+Note: 
+    To import packages use
+        1. pip install -r requirements.txt 
+    
+    To install geckodriver drive: (run this command on command prompt)
+
+        1. wget https://github.com/mozilla/geckodriver/releases/download/v0.24.0/geckodriver-v0.24.0-linux64.tar.gz
+        2. tar -xvzf geckodriver*
+        3. chmod +x geckodriver
+        4. export PATH=$PATH:/path-to-extracted-file/.
+
+
+ 
+
